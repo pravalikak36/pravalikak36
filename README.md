@@ -9,7 +9,7 @@ MVIT
 - Python (learning)
 - Basic C
 - HTML, CSS (beginner)
--C++
+- C++
 
 ## LinkedIn Profile
 [https://www.linkedin.com/in/pravalika-k-6840b7355](https://www.linkedin.com/in/pravalika-k-6840b7355)
