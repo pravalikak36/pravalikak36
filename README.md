@@ -2,13 +2,15 @@
 Pravalika k
 
 ## Academic Details
-B.E[ISE]– 2nd Semester  
+B.E[ISE]– 3rd Semester  
 MVIT
 
 ## Current Tech Stack
-- Python (learning)
+- Python 
 - Basic C
-- HTML, CSS (beginner)
+- HTML
+- CSS
+- JS
 - C++
 
 ## LinkedIn Profile
