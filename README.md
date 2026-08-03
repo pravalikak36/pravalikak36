@@ -160,16 +160,6 @@ Building hands-on projects applying agentic workflows and retrieval-augmented ge
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pravalikak36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1b4b&title_color=a5b4fc&icon_color=a5b4fc"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pravalikak36&theme=tokyonight&hide_border=true&background=1e1b4b&ring=a5b4fc&fire=a5b4fc"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Graph
 
