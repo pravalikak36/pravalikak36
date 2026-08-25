@@ -64,7 +64,8 @@ A look at how each phase connects — no gaps, always building on the last one.
 | Period | Focus | Status |
 |:---|:---|:---:|
 | **Dec 2025 – May 2026** | Frontend Developer Intern @ HTCL Technologies | ✅ Completed |
-| **May 2026 – Present** | Open Source Contributor — NSoC'26 & SSoC'26 | 🟢 Ongoing |
+| **May 2026 – July 2026** | Open Source Contributor — NSoC'26 & SSoC'26 | ✅ Completed |
+| **July 2026 – Present** | Front End AI Intern @ Flyrank AI | 🟢 Ongoing |
 | **Jun 2026 – Present** | Learning Agentic AI, RAG, LangGraph, QLoRA, FastAPI, PostgreSQL | 🟢 Ongoing |
 
 </div>
@@ -77,7 +78,7 @@ A look at how each phase connects — no gaps, always building on the last one.
 - Built and maintained responsive user interfaces with React.js, improving UI performance and user experience across key product features
 - Integrated frontend components with REST APIs and backend services, contributing to end-to-end feature delivery in a collaborative team environment
 
-**Open Source Contributor** · Nexus Spring of Code (NSoC'26) & SSoC'26 · *May 2026 – Present*
+**Open Source Contributor** · Nexus Spring of Code (NSoC'26) & SSoC'26 · *May 2026 – July 2026*
 - Contributing to open-source frontend projects, collaborating with distributed teams on real-world codebases using Git and standard collaborative workflows
 - Improving production-level code and modern frontend best practices through active issue and PR work
 
