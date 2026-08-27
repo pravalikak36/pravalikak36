@@ -98,14 +98,22 @@ Responsive attendance dashboard with dynamic CSV data processing, marks tracking
 </td>
 <td width="50%" valign="top">
 
+**🤖 [Our Little Space — Context-Aware-Personalized-AI](https://github.com/pravalikak36/AI-Personal-Analyzer)**
+<br/><sub>Python · Gradio · Gemini · OpenAI SDK · Prompt Engineering</sub>
+
+Context-aware AI assistant that uses personalized context, conversation history, individual perspectives, and three response modes — Understand, Cheer Me Up, and Help Me Reply — to generate more natural and relevant responses.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🎬 [Netflix Clone — Streaming Platform UI](https://github.com/pravalikak36)**
 <br/><sub>HTML · CSS · JavaScript</sub>
 
 Netflix-style responsive UI with modern layouts and dynamic interactions, built with reusable components.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📰 [News App — Live News Portal](https://github.com/pravalikak36)**
@@ -114,12 +122,17 @@ Netflix-style responsive UI with modern layouts and dynamic interactions, built 
 Live news platform with category filtering, real-time API data fetching, and dynamic DOM updates.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🤖 Agentic AI + RAG Projects** — *In Progress*
 <br/><sub>LangGraph · RAG · QLoRA</sub>
 
 Building hands-on projects applying agentic workflows and retrieval-augmented generation as I complete my current AI course.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
