@@ -65,7 +65,6 @@ A look at how each phase connects — no gaps, always building on the last one.
 |:---|:---|:---:|
 | **Dec 2025 – May 2026** | Frontend Developer Intern @ HTCL Technologies | ✅ Completed |
 | **May 2026 – July 2026** | Open Source Contributor — NSoC'26 & SSoC'26 | ✅ Completed |
-| **July 2026 – Present** | Front End AI Intern @ Flyrank AI | 🟢 Ongoing |
 | **Jun 2026 – Present** | Learning Agentic AI, RAG, LangGraph, QLoRA, FastAPI, PostgreSQL | 🟢 Ongoing |
 
 </div>
@@ -106,6 +105,15 @@ Context-aware AI assistant that uses personalized context, conversation history,
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+
+**💊 [MediMate — AI-Powered Medication Assistant](https://github.com/pravalikak36/AI-Medication-Assistant)**
+<br/><sub>Python · Gemini · PostgreSQL · Supabase · Tool Calling · Voice AI</sub>
+
+AI-powered medication assistant using Gemini and agentic tool calling to retrieve personalized medication information and schedules from structured PostgreSQL data, with real-time voice interaction through speech-to-text and text-to-speech.
+
+</td>
 <td width="50%" valign="top">
 
 **🎬 [Netflix Clone — Streaming Platform UI](https://github.com/pravalikak36)**
