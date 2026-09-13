@@ -47,8 +47,8 @@ I'm intentionally building two tracks in parallel, both converging on the same g
 |:---|:---|
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & DB** *(learning)* | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **LLM & Agentic AI** *(learning)* | ![Agentic AI](https://img.shields.io/badge/Agentic_AI-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) ![RAG](https://img.shields.io/badge/RAG-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) ![LangGraph](https://img.shields.io/badge/LangGraph-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) ![QLoRA](https://img.shields.io/badge/QLoRA-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) |
+| **Backend & DB**| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **LLM & Agentic AI** | ![Agentic AI](https://img.shields.io/badge/Agentic_AI-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) ![RAG](https://img.shields.io/badge/RAG-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) ![LangGraph](https://img.shields.io/badge/LangGraph-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) ![QLoRA](https://img.shields.io/badge/QLoRA-a5b4fc?style=flat-square&labelColor=1e1b4b&color=1e1b4b) |
 | **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
@@ -104,9 +104,9 @@ Context-aware AI assistant that uses personalized context, conversation history,
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-
 
 **💊 [MediMate — AI-Powered Medication Assistant](https://github.com/pravalikak36/AI-Medication-Assistant)**
 <br/><sub>Python · Gemini · PostgreSQL · Supabase · Tool Calling · Voice AI</sub>
@@ -122,6 +122,9 @@ AI-powered medication assistant using Gemini and agentic tool calling to retriev
 Netflix-style responsive UI with modern layouts and dynamic interactions, built with reusable components.
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 **📰 [News App — Live News Portal](https://github.com/pravalikak36)**
@@ -130,8 +133,6 @@ Netflix-style responsive UI with modern layouts and dynamic interactions, built 
 Live news platform with category filtering, real-time API data fetching, and dynamic DOM updates.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🤖 Agentic AI + RAG Projects** — *In Progress*
@@ -140,10 +141,8 @@ Live news platform with category filtering, real-time API data fetching, and dyn
 Building hands-on projects applying agentic workflows and retrieval-augmented generation as I complete my current AI course.
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
+
 </table>
 
 ---
