@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-pravalikak15036%40gmail.com-a5b4fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pravalikak15036@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravalika-kugarthi-6840b7355/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pravalikak36)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Follow-E6E6FA?style=for-the-badge&logo=portfolio&logoColor=white)](https://pravalika-portfolio-indol.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-pravalikak36-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pravalikak36/)
 
 <br/>
